@@ -1,0 +1,25 @@
+{
+  "name": "prova1",
+  "version": "1.0.0",
+  "description": "API com Node.js e Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TacianeSantos/ProvaTETI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TacianeSantos/ProvaTETI/issues"
+  },
+  "homepage": "https://github.com/TacianeSantos/ProvaTETI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.2"
+  }
+}
